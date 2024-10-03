@@ -2,8 +2,7 @@
 # Car Management CRUD API
 
 This is a simple  API built with Go programming for managing a collection of cars. 
-The API allows users to perform basic  
-**CRUD (Create, Read, Update, Delete)** operations on car data. Each car has fields like `ID`, `Make`, `Model`, `Year`, and `Status` which indicates if the car is "Available", "In Service", or "Rented". The server listens on port **4455**.
+The API allows users to perform basic  **CRUD (Create, Read, Update, Delete)** operations on car data. Each car has fields like `ID`, `Make`, `Model`, `Year`, and `Status` which indicates if the car is "Available", "In Service", or "Rented". The server listens on port **4455**.
 
 ## Features
 
